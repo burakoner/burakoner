@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=burakoner)](https://github.com/burakoner)
+
+![burakoner's github stats](https://github-readme-stats.vercel.app/api?username=burakoner&show_icons=true&hide_border=true)
