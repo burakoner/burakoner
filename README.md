@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=burakoner)](https://github.com/burakoner)
 
 ![burakoner's github stats](https://github-readme-stats.vercel.app/api?username=burakoner&show_icons=true&hide_border=true)
+
+![burakoner's profile views](https://komarev.com/ghpvc/?username=burakoner&label=Profile%20views&color=0e75b6&style=flat)
